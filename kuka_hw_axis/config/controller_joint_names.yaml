@@ -1,0 +1,8 @@
+controller_joint_names:
+    - east_joint_e1
+    - east_joint_a1
+    - east_joint_a2
+    - east_joint_a3
+    - east_joint_a4
+    - east_joint_a5
+    - east_joint_a6

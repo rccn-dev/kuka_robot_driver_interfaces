@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: "Yen"
+    given-names: "Chia-Ching"
+title: "KUKA robot driver interfaces"
+version: 0.0.1
+date-released: 2025-03-28
+url: "https://github.com/rccn-dev/kuka_robot_driver_interfaces"
+license: MIT
+doi: 10.5281/zenodo.15099341
